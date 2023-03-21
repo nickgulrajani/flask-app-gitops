@@ -6,5 +6,5 @@ System.out.println("a is less than b");
 } else {
 System.out.println("a is equal to b");
 }
-System.out.println("An example of Cyclomatic Complexity 1 ") 
+System.out.println("An example of Cyclomatic Complexity 2 ") 
 }
